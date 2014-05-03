@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/69/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes
+END
+DrvStraightEncode.d
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/61/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvStraightEncode.d
+END
+DrvTurnPID.d
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/69/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvTurnPID.d
+END
+DrvTurnEncode.d
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/61/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvTurnEncode.d
+END
+cameraHandler.d
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/34/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/cameraHandler.d
+END
+HotPID.d
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/HotPID.d
+END
+armHandler.d
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/armHandler.d
+END
+DrvTurnPIDRate.d
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/65/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvTurnPIDRate.d
+END
+uploadpancakes_Main.d
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/64/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/uploadpancakes_Main.d
+END
+DrvTurnEncodeRate.d
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/63/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvTurnEncodeRate.d
+END
+DrvStraightPID.d
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/61/trunk/PPC603gnu/BuiltinDefaultCode_partialImage/Debug/Objects/uploadpancakes/DrvStraightPID.d
+END
